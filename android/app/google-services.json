@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "66953782742",
+    "firebase_url": "https://namaprojectdbkalian-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "namaprojectdbkalian",
+    "storage_bucket": "namaprojectdbkalian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66953782742:android:d24262c4132d231ca67077",
+        "android_client_info": {
+          "package_name": "com.aplikasi.gocar_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66953782742-nnts0tkpu0vqlh0kfn285e7r32v8e74g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1unPB_Ubsow0tyuVWgISj9stlbwp_cAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66953782742-nnts0tkpu0vqlh0kfn285e7r32v8e74g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66953782742:android:02bf2fb48e41f03aa67077",
+        "android_client_info": {
+          "package_name": "com.aplikasi.gocar_driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66953782742-nnts0tkpu0vqlh0kfn285e7r32v8e74g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1unPB_Ubsow0tyuVWgISj9stlbwp_cAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66953782742-nnts0tkpu0vqlh0kfn285e7r32v8e74g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
